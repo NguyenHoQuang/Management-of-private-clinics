@@ -1,0 +1,22 @@
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\BUS.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\DAO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\DTO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\DAO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Release\DTO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Release\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Release\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Release\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Release\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Release\BUS.pdb

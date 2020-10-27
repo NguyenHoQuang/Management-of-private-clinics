@@ -1,0 +1,6 @@
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\bin\Release\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\bin\Release\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\obj\Release\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,305 @@
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DangNhap.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonGiaThuoc.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.SaveAs.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoTen.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.Cache
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojResolveAssemblyReference.cache
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuickSearch.resources
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojResolveAssemblyReference.cache
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.Cache
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+D:\Visual Studio\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.D.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.DonViTinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Form1.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.HoaDon.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.Properties.Resources.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuyDinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.ThongBao.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.TimTheoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\DevComponents.TreeGX.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\QuhanLyPhongMachTu\bin\Debug\QuhanLyPhongMachTu.exe.config
+D:\NhapMonCNPM\QuanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\NhapMonCNPM\QuanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.exe
+D:\NhapMonCNPM\QuanLyPhongMachTu\QuhanLyPhongMachTu\obj\Debug\QuhanLyPhongMachTu.pdb

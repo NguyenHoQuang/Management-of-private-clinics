@@ -1,0 +1,9 @@
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Release\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Release\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Release\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Release\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Release\DAO.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Release\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Release\DAO.pdb

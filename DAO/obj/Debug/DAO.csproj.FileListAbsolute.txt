@@ -1,0 +1,34 @@
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\bin\Debug\DAO.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\bin\Debug\DTO.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\obj\Debug\DAO.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\DAO\obj\Debug\DAO.pdb

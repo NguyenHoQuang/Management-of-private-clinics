@@ -1,0 +1,93 @@
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+C:\Users\dangminh\Documents\Visual Studio 2013\Projects\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+D:\Visual Studio\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+C:\Users\Thinh\Desktop\QuhanLyPhongMachTu-20181213T013831Z-001 - Copy\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\BUS.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\DAO.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\DTO.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\obj\Debug\BUS.dll
+D:\NhapMonCNPM\QuanLyPhongMachTu\BUS\obj\Debug\BUS.pdb

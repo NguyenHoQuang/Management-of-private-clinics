@@ -1,0 +1,79 @@
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.exe.config
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.exe
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\BUS.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DAO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DevComponents.TreeGX.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DTO.dll
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\BUS.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DAO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DTO.pdb
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.BaoCaoNgay.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.D.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.DonViTinh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.Form1.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.HoaDon.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.Properties.Resources.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuyDinh.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.ThongBao.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.SplashScreen.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.TimTheoNgay.resources
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.CopyComplete
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.exe
+C:\Users\THINH\Desktop\QuhanLyPhongMachTu\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.exe.config
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\QuhanLyPhongMachTu.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\BUS.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DAO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DevComponents.DotNetBar2.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DevComponents.TreeGX.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DTO.dll
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\BUS.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DAO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\bin\Release\DTO.pdb
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csprojAssemblyReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.ResolveComReference.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.BaoCaoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.BaoCaoSuDungThuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.DangNhap.TaiKhoan.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.D.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.DoiMatKhau.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Gmail.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.Help.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.Home.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.FormMain.ThongTin.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.PhieuKhamBenh.DanhSach.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Benh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.CachDung.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.DonViTinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.Form1.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.HoaDon.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.PhieuKhamBenh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.Properties.Resources.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuyDinh.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.ThongBao.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.QuanLyPhongMach.QuyDinh.Thuoc.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.TimTheoNgay.resources
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.GenerateResource.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.CoreCompileInputs.cache
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.csproj.CopyComplete
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.exe
+D:\DHCNTT\HỌC KỲ 6\NMCNPM\ĐỒ ÁN FINALL\QLPhongMachTu_SourceCode\QLPhongMachTu_SourceCode\QuhanLyPhongMachTu\QuhanLyPhongMachTu\obj\Release\QuhanLyPhongMachTu.pdb
